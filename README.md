@@ -59,7 +59,7 @@ Ou envoyez-nous un email si besoin.
 
 Pour toute question ou pour exercer vos droits (accès, suppression, portabilité…), écrivez-nous :
 
-**contact@nomads-map.app**
+contact.nomadsmap@gmail.com
 
 ---
 

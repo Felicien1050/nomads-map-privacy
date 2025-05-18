@@ -15,9 +15,11 @@ Nous collectons uniquement les données strictement nécessaires au bon fonction
 - **Numéro de téléphone** : Si vous vous inscrivez ou connectez via votre numéro, ou pour permettre à vos amis de vous retrouver.
 - **Interactions** : Messages, connexions avec d’autres utilisateurs, signalements.
 - **Préférences** : Réglages de confidentialité, notifications, visibilité de la localisation.
-- **Données techniques** : Infos anonymes pour la maintenance et l’amélioration.
+- **Données techniques et performance** : Des données anonymes sur les performances, les diagnostics et les erreurs (plantages) de l’application sont collectées automatiquement dans le seul but d’améliorer la stabilité, la sécurité et la qualité du service.  
+Aucune information personnelle n’est incluse dans ces rapports.
+  
 
----
+
 
 ## 🎯 Utilisation des données
 
